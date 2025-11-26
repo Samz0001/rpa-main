@@ -61,7 +61,7 @@ export default function Hero() {
             <div className="relative">
               <div className="w-80 h-80 rounded-full overflow-hidden border-8 border-white shadow-2xl">
                 <img
-                  src="{profileImg}"
+                  src={profileImg}
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />
