@@ -1,4 +1,5 @@
 import { Github, Linkedin, Mail } from 'lucide-react';
+import profileImg from  '../images/SHYAM.jpg';
 
 export default function Hero() {
   return (
