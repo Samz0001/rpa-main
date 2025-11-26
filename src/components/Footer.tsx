@@ -1,4 +1,4 @@
-import { Github, Linkedin, Mail, Heart } from 'lucide-react';
+import { Github, Linkedin, Heart } from 'lucide-react';
 
 export default function Footer() {
   return (
@@ -7,11 +7,10 @@ export default function Footer() {
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           <div>
             <h3 className="text-2xl font-bold mb-4 bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">
-              RPA Portfolio
+              Automation Developer Portfolio
             </h3>
             <p className="text-slate-400 mb-4">
-              Building intelligent automation solutions that transform businesses and drive efficiency.
-            </p>
+              Crafting smart automation solutions that streamline workflows and boost efficiency.            </p>
           </div>
 
           <div>
